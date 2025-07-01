@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Olá, eu sou o Murilo!
+💻 Desenvolvedor Júnior | 🌍 Alfenas - MG | 🚀 Foco Principal : Backend e Web Dev
 
-<!--
-**muriloasilva/muriloasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu perfil! Sou apaixonado(a) por tecnologia e adoro criar soluções inovadoras para problemas complexos.
 
-Here are some ideas to get you started:
+🛠️ Tecnologias & Habilidades
+Linguagens: Python, JavaScript, Java, HTML, CSS, C E C++;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frameworks: React e Node.js;
+
+Ferramentas: Git e AWS.
+
+🌱 Formações:
+Concluída
+- Inglês avançado (C2) na escola Celib (2014 - 2022);
+- Curso técnico integrado ao ensino médio na escola Etec prof.Ídio Zucci (2020 - 2022).
+
+Cursando
+- Bacharelado em Ciência da Computação na Universidade Federal de Alfenas (UNIFAL).
+
+✨ Obrigado pela visita!
