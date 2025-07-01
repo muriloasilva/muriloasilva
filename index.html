@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Apresentação Pessoal</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        .profile-img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin: 20px auto;
+            display: block;
+            border: 3px solid #3498db;
+        }
+        section {
+            margin-bottom: 25px;
+        }
+        .skills {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        .skill {
+            background-color: #3498db;
+            color: white;
+            padding: 5px 10px;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            color: #7f8c8d;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <!-- Substitua pelo caminho da sua imagem -->
+        <img src="c:\Users\muril\OneDrive\Área de Trabalho\Foto-3x4-Murilo_page-0001.jpg" alt="Minha Foto" class="profile-img">
+        <h1>Olá, eu sou Murilo</h1>
+        <p>Programador Júnior | Alfenas - MG</p>
+    </header>
+
+    <section>
+        <h2>👋 Sobre Mim</h2>
+        <p> 
+            Atualmente trabalho com Social media e estou sempre 
+            buscando aprender coisas novas.
+        </p>
+    </section>
+
+    <section>
+        <h2>🛠 Habilidades Técnicas</h2>
+        <div class="skills">
+            <span class="skill">HTML</span>
+            <span class="skill">CSS</span>
+            <span class="skill">JavaScript</span>
+            <span class="skill">C</span>
+            <span class="skill">C++</span>
+        </div>
+    </section>
+
+    <section>
+        <h2>🎓 Formação</h2>
+        <p><strong>Ciência da Computação</strong> - Universidade Federal de Alfenas (UNIFAL) (Cursando)</p>
+    </section>
+
+    <footer>
+        <p>© <span id="year"></span> - Murilo Antonio da Silva</p>
+    </footer>
+
+    <script>
+        // Atualiza o ano automaticamente
+        document.getElementById('year').textContent = new Date().getFullYear();
+    </script>
+</body>
+</html>
